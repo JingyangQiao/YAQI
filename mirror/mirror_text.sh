@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python -m infer_mean --model-path "./checkpoints/llava-llama-2-7b-chat-LanguageBind-llava_llama_2-finetune-text-mirror" --file-path "./extract/text_datasets" --sum-path "./extract/LLaMA-2-7b/text_sums" --modality "Text"
+CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python -m choose_reverse --file-path "./extract/text_datasets" --sum-path "./extract/LLaMA-2-7b/text_sums" --save-path "./Dataset/Replay/LLaMA-2-7b/Text.json" --modality "Text"

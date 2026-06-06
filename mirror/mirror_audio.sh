@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python -m infer_mean --model-path "./checkpoints/llava-llama-2-7b-chat-LanguageBind-llava_llama_2-finetune-audio-mirror" --file-path "./extract/audio_datasets" --sum-path "./extract/LLaMA-2-7b/audio_sums" --modality "Audio"
+CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python -m choose_reverse --file-path "./extract/audio_datasets" --sum-path "./extract/LLaMA-2-7b/audio_sums" --save-path "./Dataset/Replay/LLaMA-2-7b/Audio.json" --modality "Audio"
