@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/Paper-ComingSoon-b5212f.svg?logo=arxiv)](Comning Soon) [![Models](https://img.shields.io/badge/Models-YAQI-yellow?logo=huggingface)](https://huggingface.co/jingyang/YAQI) [![Datasets](https://img.shields.io/badge/Datasets-ModalEvolve-purple?logo=huggingface)](https://huggingface.co/datasets/jingyang/YAQI-Data) [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/) [![License](https://img.shields.io/badge/LICENSE-MIT-green.svg)](https://opensource.org/licenses/MIT) [![powered-by-sii](https://img.shields.io/badge/Powered%20By-SII-blue?style=plastic)](https://sii-group.com/fr-FR/sii-sud-ouest)
+[![Paper](https://img.shields.io/badge/Paper-ComingSoon-b5212f.svg?logo=arxiv)](https://arxiv.org) [![Models](https://img.shields.io/badge/Models-YAQI-yellow?logo=huggingface)](https://huggingface.co/jingyang/YAQI-Vicuna-v1.5-13B) [![Datasets](https://img.shields.io/badge/Datasets-ModalEvolve-purple?logo=huggingface)](https://huggingface.co/datasets/jingyang/YAQI-Data) [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/) [![License](https://img.shields.io/badge/LICENSE-MIT-green.svg)](https://opensource.org/licenses/MIT) [![powered-by-sii](https://img.shields.io/badge/Powered%20By-SII-blue?style=plastic)](https://sii-group.com/fr-FR/sii-sud-ouest)
 
 </div>
 
@@ -135,7 +135,7 @@ Dataset: 🤗 [Modal-Evolve](https://huggingface.co/datasets/jingyang/YAQI-Data)
 
 ## 🔍 YAQI Model Checkpoints
 
-YAQI-Vicuna-v1.5-13b: 🤗 [Train](https://huggingface.co/jingyang/YAQI)
+YAQI-Vicuna-v1.5-13b: 🤗 [checkpoints](https://huggingface.co/jingyang/YAQI-Vicuna-v1.5-13B)
 
 
 ## 📖 CLI Inference
