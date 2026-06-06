@@ -170,6 +170,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 bash ./scripts/anyllava-eval/all.sh
 ## 👍 Acknowledgement
 
 * [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA) The codebase we built upon and it is an efficient large language and visual assistant.
+* [LanguageBind](https://github.com/PKU-YuanGroup/LanguageBind) An open source five modalities language-based retrieval framework.
 
 ## ⚖️ License
 
